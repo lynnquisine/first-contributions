@@ -4318,5 +4318,5 @@ guanj65
 - [Shahzaib Farman](https://github.com/ShahzaibFarman)
 - [Devender Butani](https://github.com/devenderbutani21/)
 - [MaiDinhVinh] (https://github.com/MaiDinhVinh)
-- [lynnquisine] (https://github.com/lynnequisine)
+- [lynnquisine] https://github.com/lynnquisine
 - 
